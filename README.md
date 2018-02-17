@@ -1,5 +1,7 @@
 # Oriole Template
 
+Instructions for how to create a locally-runnable [Safari Oriole](https://www.safaribooksonline.com/oriole/).
+
 * Set up [launchbot](http://oreillymedia.github.io/production-resources/oriole/)
 * Clone this repo in launchbot
 * Build and launch
