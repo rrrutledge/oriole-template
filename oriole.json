@@ -1,0 +1,47 @@
+{
+  "title": "Oriole Template",
+  "source": "main.md",
+  "mode": "markdown",
+  "htmlContent": "main.html",
+  "videoId": "TyimCGEkiUc",
+  "cues": [
+    {
+      "time": 96419,
+      "text": "Example 1",
+      "sel": "#example1",
+      "scroll": true
+    },
+    {
+      "time": 12411,
+      "text": "Example 2",
+      "sel": "#example2",
+      "scroll": true
+    },
+    {
+      "time": 86529,
+      "text": "A chart!",
+      "sel": "#example3",
+      "scroll": true
+    },
+    {
+      "time": 0,
+      "sel": "#Seaborn-Example"
+    },
+    {
+      "time": 16883,
+      "sel": "#the-id"
+    },
+    {
+      "time": 18363,
+      "sel": "#another-id"
+    },
+    {
+      "time": 71845,
+      "sel": "#this-example-is-hard"
+    },
+    {
+      "time": 21264,
+      "sel": "#this-example"
+    }
+  ]
+}
