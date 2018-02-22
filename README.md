@@ -8,7 +8,7 @@ Instructions for how to create a locally-runnable [Safari Oriole](https://www.sa
 * Edit `main.ipynb` to to create content
 * Add metadata in `index.html`
 * Add your main content in `main.html`
-* Edit `cue.json` to ad cue points
+* Edit `cue.json` to add cue points
 
 ## Disclaimer
 
